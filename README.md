@@ -11,5 +11,7 @@ https://financialservices.royalcommission.gov.au/Pages/reports.aspx
 2. Follow the instructions to perform LDA by visiting the following link on GitHub 
 https://github.com/consultsd/LDA/blob/master/LDA.ipynb
 
+ I have chosen only 5 themes to start off with but you are free to experiment
+
 3. Article on Royal Banking Commission Report findings for comparison
 https://www.corrs.com.au/thinking/insights/beyond-the-banking-royal-commission-9-key-implications-of-the-hayne-report-for-corporate-australia/
